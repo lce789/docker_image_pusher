@@ -7,3 +7,4 @@
 redis/redis-stack
 mongodb/mongodb-community-server
 redis:7.0.11
+mongo:7.0.4
