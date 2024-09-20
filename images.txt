@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 redis/redis-stack
 mongodb/mongodb-community-server
-redis/redis:7.0.11
+redis:7.0.11
