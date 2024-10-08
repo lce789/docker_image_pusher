@@ -10,3 +10,4 @@ redis:7.0.11
 mongo:7.0.4
 autumn27/scopesentry:latest
 autumn27/scopesentry-scan:latest
+continuumio/anaconda3:latest
