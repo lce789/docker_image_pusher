@@ -1,1 +1,1 @@
-registry
+python:latest
