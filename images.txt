@@ -1,1 +1,1 @@
-PolarDB/PolarDB:latest
+greatsql/greatsql
