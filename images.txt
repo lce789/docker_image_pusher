@@ -1,1 +1,1 @@
-itushan/mtab:latest
+mysql:latest
