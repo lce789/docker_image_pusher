@@ -1,1 +1,1 @@
-mysql:latest
+openproject/openproject:15
